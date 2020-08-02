@@ -1,4 +1,6 @@
-# 04-vue-cli
+# vue-carrito-de-compras
+
+### Un carrito de compras responsive, usando Boostrap y Vue.js.
 
 ## Project setup
 ```
